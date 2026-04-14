@@ -4,19 +4,19 @@
     "url": "https://oscarhua0629.com",
     "icon": "https://icons.duckduckgo.com/ip3/oscarhua0629.com.ico",
     "slug": "my-landing-page",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 105,
-    "timeDay": 105,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "status": "up",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
+    "time": 124,
+    "timeDay": 124,
+    "timeWeek": 124,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-04-14": 32
+      "2026-04-14": 35
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://kinghua0629.com",
     "icon": "https://icons.duckduckgo.com/ip3/kinghua0629.com.ico",
     "slug": "my-blog",
-    "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 152,
-    "timeDay": 152,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "status": "up",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-04-14": 32
+      "2026-04-14": 35
     }
   }
 ]
