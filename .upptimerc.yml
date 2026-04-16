@@ -12,6 +12,9 @@ sites:
   - name: My discussion site
     url: https://discussion.kinghua0629.com
     type: globalping
+  - name: My temporary email
+    url: https://mail.kinghua0629.com
+    type: globalping
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
