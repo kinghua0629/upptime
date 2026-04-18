@@ -6,9 +6,11 @@ sites:
   - name: My landing page
     url: https://oscarhua0629.com
     type: globalping
+    faviconSvg: https://oscarhua0629.com/favicon.svg
   - name: My blog
     url: https://kinghua0629.com
     type: globalping
+    faviconSvg: https://kinghua0629.com/images/server.svg
   - name: My discussion site
     url: https://discussion.kinghua0629.com
     type: globalping
