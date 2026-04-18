@@ -15,6 +15,9 @@ sites:
   - name: My temporary email
     url: https://mail.kinghua0629.com
     type: globalping
+  - name: My tech blog
+    url: https://tech.kinghua0629.com
+    type: globalping
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
