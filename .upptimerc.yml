@@ -7,19 +7,24 @@ sites:
     url: https://oscarhua0629.com
     type: globalping
     faviconSvg: https://oscarhua0629.com/favicon.svg
+    location: california
   - name: My blog
     url: https://kinghua0629.com
     type: globalping
     faviconSvg: https://kinghua0629.com/images/server.svg
+    location: california
   - name: My discussion site
     url: https://discussion.kinghua0629.com
     type: globalping
+    location: california
   - name: My temporary email
     url: https://mail.kinghua0629.com
     type: globalping
+    location: california
   - name: My tech blog
     url: https://tech.kinghua0629.com
     type: globalping
+    location: california
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
