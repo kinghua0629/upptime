@@ -28,6 +28,7 @@ sites:
   - name: My VPN
     url: vps.kinghua0629.com
     check: "tcp-ping"
+    port: 2095
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
