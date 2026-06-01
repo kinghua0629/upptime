@@ -118,18 +118,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-vpn",
     "status": "up",
-    "uptime": "5.86%",
-    "uptimeDay": "5.86%",
-    "uptimeWeek": "5.86%",
-    "uptimeMonth": "5.86%",
-    "uptimeYear": "5.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 57,
     "timeDay": 57,
     "timeWeek": 57,
     "timeMonth": 57,
     "timeYear": 57,
-    "dailyMinutesDown": {
-      "2026-06-01": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
