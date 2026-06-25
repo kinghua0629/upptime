@@ -21,10 +21,10 @@ sites:
     url: https://mail.kinghua0629.com
     type: globalping
     location: california
-  - name: My tech blog
-    url: https://tech.kinghua0629.com
-    type: globalping
-    location: california
+  # - name: My tech blog
+  #   url: https://tech.kinghua0629.com
+  #   type: globalping
+  #   location: california
   - name: My VPN
     url: vps.kinghua0629.com
     check: "tcp-ping"
