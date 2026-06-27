@@ -20,7 +20,7 @@ sites:
     location: california
   - name: My temporary email
     url: https://mail.kinghua0629.com
-    slug: my-temporary-mail
+    slug: my-temporary-email
     type: globalping
     location: california
   - name: My New Tech Blog
