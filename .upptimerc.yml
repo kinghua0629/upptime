@@ -5,24 +5,27 @@ repo: upptime # The name of this repository
 sites:
   - name: My landing page
     url: https://oscarhua0629.com
+    slug: my-landing-page
     type: globalping
-    faviconSvg: https://oscarhua0629.com/favicon.svg
     location: california
   - name: My blog
     url: https://kinghua0629.com
+    slug: my-blog
     type: globalping
-    faviconSvg: https://kinghua0629.com/images/server.svg
     location: california
   - name: My discussion site
     url: https://discussion.kinghua0629.com
+    slug: my-discussion-site
     type: globalping
     location: california
   - name: My temporary email
     url: https://mail.kinghua0629.com
+    slug: my-temporary-mail
     type: globalping
     location: california
   - name: My New Tech Blog
     url: https://blog.kinghua0629.com
+    slug: my-new-tech-blog
     type: globalping
     location: california
   # - name: IPv6 test
