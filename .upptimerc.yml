@@ -25,10 +25,6 @@ sites:
     url: https://blog.kinghua0629.com
     type: globalping
     location: california
-  - name: My VPN
-    url: vps.kinghua0629.com
-    check: "tcp-ping"
-    port: 2095
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
