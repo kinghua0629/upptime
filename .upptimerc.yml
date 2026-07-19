@@ -23,7 +23,7 @@ sites:
     slug: my-temporary-email
     type: globalping
     location: california
-  - name: My New Tech Blog
+  - name: My Tech Blog
     url: https://blog.kinghua0629.com
     slug: my-new-tech-blog
     type: globalping
